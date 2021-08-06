@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-nodejs-rest-apis",
+  "version": "1.0.0",
+  "description": "Welcome to vanilla Node.js REST APIs!",
+  "main": "app/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/server.js",
+    "dev": "nodemon app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debarghyameanstack/vanilla-nodejs-rest-apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debarghyameanstack/vanilla-nodejs-rest-apis/issues"
+  },
+  "homepage": "https://github.com/debarghyameanstack/vanilla-nodejs-rest-apis#readme"
+}
